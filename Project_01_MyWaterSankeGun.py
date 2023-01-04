@@ -34,13 +34,15 @@ while 0 < 1 :
     else:
         comp = "g"
 
-    you = input("Ypur turn : Snake(s) Water(w) Gun(g)")
+    you = input("Your turn : Snake(s) Water(w) Gun(g)")
 
     if(Win()== True):
         print("You win !!!")
     elif(Win() == None):
+        
         print("It's a tie :)  Play again")
     else:
+        print(f"Choise of computer is : {comp}")
         print("You loose :( ")
 
 
