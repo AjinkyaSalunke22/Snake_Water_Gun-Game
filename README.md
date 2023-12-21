@@ -1,5 +1,6 @@
 
-Snake Water Gun Game 🐍🌊🔫
+**Snake Water Gun Game 🐍🌊🔫**
+
 Engage in a thrilling round of the classic Snake Water Gun game, brought to life through the power of Python!
 
 🎮 Play the Game
